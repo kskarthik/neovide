@@ -10,6 +10,15 @@ homepage = "https://neovide.dev/"
 repository = "https://github.com/neovide/neovide"
 readme = "README.md"
 keywords = ["neovim", "nvim", "gui"]
+# exclude non-essential folders for publishing to crates.io
+exclude = [
+		"website",
+		"ubuntu-builder",
+		"snap",
+		"wix",
+		"assets",
+		".*"
+]
 
 [workspace]
 members = ["neovide-derive"]

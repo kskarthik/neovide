@@ -82,7 +82,7 @@ jobs:
 
   # publish to crates.io
   publish-crate:
-    runs-on: ${{ matrix.os }}
+    runs-on: ubuntu-latest
     needs: test
     steps:
       - uses: actions/checkout@v3

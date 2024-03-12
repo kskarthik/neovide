@@ -2,5 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://neovide.dev/</loc>
+        <lastmod>2024-03-12T15:46:36.414Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/command-line-reference</loc>
+        <lastmod>2024-03-12T15:46:34.886Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/commands</loc>
+        <lastmod>2024-03-12T15:46:34.934Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/config-file</loc>
+        <lastmod>2024-03-12T15:46:35.082Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/configuration</loc>
+        <lastmod>2024-03-12T15:46:35.186Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/editing-with-external-tools</loc>
+        <lastmod>2024-03-12T15:46:35.330Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/faq</loc>
+        <lastmod>2024-03-12T15:46:35.594Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/features</loc>
+        <lastmod>2024-03-12T15:46:35.918Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/installation</loc>
+        <lastmod>2024-03-12T15:46:36.506Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/maintainer-cookbook</loc>
+        <lastmod>2024-03-12T15:46:36.662Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/troubleshooting</loc>
+        <lastmod>2024-03-12T15:46:37.618Z</lastmod>
     </url>
 </urlset>
